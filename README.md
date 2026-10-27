@@ -82,6 +82,43 @@ Transcript with GPA/CGPA, assessment analytics, exam schedule, resit / improveme
 (Screenshots are available in the screenshots/ folder.)
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Developed by Vishali D - 717825I361 - B.Tech AIDS
 
 
